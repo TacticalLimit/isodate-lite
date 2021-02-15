@@ -9,5 +9,6 @@ Added:
 * Initial repo
 * This changelog
 * Git workflow to lint and unit test the package
+* Add some badges to the README
 
 [Unreleased]: https://github.com/TacticalLimit/isodate-lite/compare/v0.0.0...HEAD
