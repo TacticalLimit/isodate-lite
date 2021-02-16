@@ -7,6 +7,18 @@
     "email": "michael@burningneuron.io",
     "url": "https://www.linkedin.com/in/mrmchugh/"
   },
+  "keywords": [
+    "iso8601",
+    "dates",
+    "typescript",
+    "dynamodb"
+  ],
+  "homepage": "https://tacticallimit.github.io/isodate-lite/",
+  "bugs": "https://github.com/TacticalLimit/isodate-lite/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TacticalLimit/isodate-lite"
+  },
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
   "files": [
@@ -14,7 +26,6 @@
     "LICENSE.txt"
   ],
   "license": "Apache-2.0",
-  "keywords": [],
   "scripts": {
     "test": "jest",
     "check": "gts check",
