@@ -1,6 +1,6 @@
 {
   "name": "isodate-lite",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A lightweight tool to convert object value between date objects and ISO8601 strings. Useful when storing objects in AWS DynamoDB.",
   "author": {
     "name": "Michael McHugh",
